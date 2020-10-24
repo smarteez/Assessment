@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+itywgGt1zTAv9i3Lokvp9uuyVEDaxd3Mcf0sYrsxx1VNy2YL/Qzaf9ijOS3Yo7QbiSBHajNKt5fUasWYxBvIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work Applications\\private\\Assessment\\API\\Events\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\singhd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\singhd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
