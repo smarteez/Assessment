@@ -1,0 +1,8 @@
+C:\Work Applications\private\Assessment\API\Events\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Work Applications\private\Assessment\API\Events\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Work Applications\private\Assessment\API\Events\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Work Applications\private\Assessment\API\Events\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Work Applications\private\Assessment\API\Events\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Work Applications\private\Assessment\API\Events\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Work Applications\private\Assessment\API\Events\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Work Applications\private\Assessment\API\Events\Data\obj\Debug\netstandard2.0\Data.pdb

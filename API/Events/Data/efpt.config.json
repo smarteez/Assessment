@@ -1,0 +1,41 @@
+﻿{
+   "ContextClassName": "HollywoodtestContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Event]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EventDetail]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[EventDetailStatus]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Tournament]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": true
+}
