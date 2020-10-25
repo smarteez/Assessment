@@ -5,7 +5,7 @@ using System.Text;
 
 namespace UseCase.Contracts.Tournament
 {
-    interface IUpdateTournament
+    public interface IUpdateTournament
     {
         void Update(TournamentDTO tournamentDTO);
     }

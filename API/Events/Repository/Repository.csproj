@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Contracts\" />
-    <Folder Include="Modules\" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\UseCase\UseCase.csproj" />
   </ItemGroup>
 
 </Project>
