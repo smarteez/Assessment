@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Domain;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace UseCase.Contracts
+namespace UseCase.Contracts.Tournament
 {
     public interface IFetchTournament
     {
-        void getAll();
+        List<TournamentDTO> getAll();
     }
 }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UseCase.Contracts
+namespace UseCase.Contracts.Tournament
 {
     public interface IDeleteTournament
     {

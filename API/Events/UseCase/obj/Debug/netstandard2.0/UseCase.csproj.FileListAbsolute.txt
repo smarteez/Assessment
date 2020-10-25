@@ -1,0 +1,6 @@
+C:\Work Applications\private\Assessment\API\Events\UseCase\bin\Debug\netstandard2.0\Data.dll
+C:\Work Applications\private\Assessment\API\Events\UseCase\bin\Debug\netstandard2.0\Domain.dll
+C:\Work Applications\private\Assessment\API\Events\UseCase\bin\Debug\netstandard2.0\Data.pdb
+C:\Work Applications\private\Assessment\API\Events\UseCase\obj\Debug\netstandard2.0\UseCase.csprojAssemblyReference.cache
+C:\Work Applications\private\Assessment\API\Events\UseCase\obj\Debug\netstandard2.0\UseCase.AssemblyInfoInputs.cache
+C:\Work Applications\private\Assessment\API\Events\UseCase\obj\Debug\netstandard2.0\UseCase.AssemblyInfo.cs

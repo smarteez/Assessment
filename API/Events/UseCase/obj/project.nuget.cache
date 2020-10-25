@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2e5w7jyRj/tGRCGNa77fKEKLwtKdaCsvQXVDS46mvwNUMvyscoq+y3mk5RZGRX19Kqd48b6so1tp01se7KECeQ==",
+  "dgSpecHash": "4k5KayvnyyTriYg2wJWl50nNUfE43cpkejExF3CmTiyAEk97SIR0Yo7WIFKPOH2Bzw/04ogyOOoYu615CFx49g==",
   "success": true,
   "projectFilePath": "C:\\Work Applications\\private\\Assessment\\API\\Events\\UseCase\\UseCase.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\singhd\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -112,6 +113,7 @@
     "C:\\Users\\singhd\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\singhd\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\singhd\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
